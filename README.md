@@ -1,5 +1,5 @@
 # simple_arm_catkins_ws_2
-This repository is a progress keeper through Udacity's **ROS Essentials Lesson** in the Robotic's Nanodegree, intended as a future reference for setting up a Catkins workspace and ROS system.
+This repository is a progress keeper through Udacity's **ROS Essentials Lesson** in the Robotic's Nanodegree, intended as a future reference for setting up a Catkins workspace and ROS system. This project contains a simple robotic arm simulated in Gazebo and is controlled through ROS, allowing the robot arm to move to given joint angles or to automatically move if the attached camera is pointing at a plain background. 
 
 ## Launch
 * Initialize Catkins workspace
