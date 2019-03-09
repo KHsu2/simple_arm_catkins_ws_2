@@ -3,6 +3,8 @@ This repository is a progress keeper through Udacity's **ROS Essentials Lesson**
 
 ![Simple Arm](/Images/simple_arm_pic.PNG)
 
+<img width="200" alt="Simple Arm" src="/Images/simple_arm_pic.PNG">
+
 ## Launch
 * Initialize Catkins workspace
 ``` $ mkdir -p <folder_destination>/catkins_ws/src 
